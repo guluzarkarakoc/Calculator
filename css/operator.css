@@ -1,0 +1,9 @@
+.operator {
+    background-color: #ff9800;
+    color: white;
+    font-weight: bold;
+}
+
+.operator:hover {
+    background-color: #e68900;
+}
